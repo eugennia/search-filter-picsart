@@ -10,7 +10,6 @@ Before running the tests, ensure that you have the following installed:
 
 - **Java Development Kit (JDK)**: Version 8 or above.
 - **Maven**: For managing dependencies and running tests.
-- **Docker**: For containerized setup using Selenium Grid (see Docker section below).
 
 ### Dependencies
 
@@ -26,8 +25,8 @@ This project uses the following dependencies:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/eugennia/search-filter
-   git checkout main
+   git clone https://github.com/eugennia/search-filter-picsart
+   git checkout master
 
 2. Pull Selenium Hub and Node
     ```bash
